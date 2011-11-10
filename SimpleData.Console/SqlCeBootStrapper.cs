@@ -41,16 +41,19 @@ namespace SimpleData.Console
 
         public void CreateSchema()
         {
-            var schemaCommands = new List<string> {@"CREATE TABLE Users(
-                                    Id [uniqueidentifier] NOT NULL CONSTRAINT UsersNew_PK PRIMARY KEY,
-                                    UserName nvarchar(100) NOT NULL,
-                                    EmailAddress nvarchar(100) NOT NULL,
-                                    FirstName nvarchar(100) NULL,
-                                    LastName nvarchar(100) NULL)"};
+            var schemaCommands = new List<string> {
+                @"CREATE TABLE Users(
+                Id [uniqueidentifier] NOT NULL CONSTRAINT UsersNew_PK PRIMARY KEY,
+                UserName nvarchar(100) NOT NULL,
+                EmailAddress nvarchar(100) NOT NULL,
+                FirstName nvarchar(100) NULL,
+                LastName nvarchar(100) NULL)"
+            };
 
             using (var connection = new SqlCeConnection(_connectionString))
             {
                 connection.Open();
+                
                 foreach (var schemaCommand in schemaCommands)
                 {
                     var command = new SqlCeCommand(schemaCommand, connection);
