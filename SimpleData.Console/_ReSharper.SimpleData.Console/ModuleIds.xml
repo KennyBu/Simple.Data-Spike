@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="E044B434-9647-49A0-A88A-13D51E6634E8" ModuleId="SimpleData.Console" />
+  <Module PersistentId="F41BE3FA-3D53-486E-B3F9-94D505770A72" ModuleId="Migrations" />
+</Modules>

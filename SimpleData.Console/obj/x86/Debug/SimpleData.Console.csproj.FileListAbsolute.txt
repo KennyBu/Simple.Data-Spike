@@ -1,0 +1,11 @@
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\SimpleDataSpike.sdf
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\SimpleData.Console.exe.config
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\SimpleData.Console.exe
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\SimpleData.Console.pdb
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\Simple.Data.Ado.dll
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\Simple.Data.dll
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\Simple.Data.SqlCe40.dll
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\obj\x86\Debug\SimpleData.Console.exe
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\obj\x86\Debug\SimpleData.Console.pdb
+C:\Users\KBurkhardt\repos\home\Simple.Data-Spike\SimpleData.Console\bin\Debug\FizzWare.NBuilder.dll

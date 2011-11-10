@@ -1,0 +1,126 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:App.config" caret="79" fromTop="2" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="0" fromTop="0" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:packages.config" caret="0" fromTop="0" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="358" fromTop="8" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1132" fromTop="12" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="914" fromTop="7" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1660" fromTop="16" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="914" fromTop="22" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="898" fromTop="25" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2298" fromTop="16" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1660" fromTop="8" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2181" fromTop="19" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2752" fromTop="34" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1584" fromTop="8" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="1163" fromTop="26" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="881" fromTop="23" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="271" fromTop="10" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="840" fromTop="28" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="988" fromTop="32" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="547" fromTop="23" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="549" fromTop="18" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="356" fromTop="18" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="774" fromTop="30" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="898" fromTop="17" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="0" fromTop="0" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:App.config" caret="216" fromTop="4" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="280" fromTop="10" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1029" fromTop="25" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="358" fromTop="8" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="var" priority="3" />
+      <Item value="db" priority="2" />
+      <Item value="IDatabaseOpener`0" priority="1" />
+      <Item value="Guid`0" priority="2" />
+      <Item value="userId" priority="1" />
+      <Item value="Console`0" priority="2" />
+      <Item value="user" priority="2" />
+      <Item value="public" priority="0" />
+      <Item value="class" priority="0" />
+      <Item value="prop" priority="0" />
+      <Item value="foreach" priority="1" />
+      <Item value="User`0" priority="0" />
+      <Item value="users" priority="1" />
+      <Item value="private" priority="1" />
+      <Item value="void" priority="0" />
+      <Item value="dynamic" priority="0" />
+      <Item value="DBNull`0" priority="0" />
+      <Item value="protected" priority="2" />
+      <Item value="static" priority="1" />
+      <Item value="ctor" priority="0" />
+      <Item value="string" priority="1" />
+      <Item value="new" priority="1" />
+      <Item value="SqlCeBootStrapper`0" priority="0" />
+      <Item value="sqlCeBootStrapper" priority="1" />
+      <Item value="SqlCeBootStrapper" priority="0" />
+      <Item value="connectionStringName" priority="1" />
+      <Item value="Migrations" priority="0" />
+      <Item value="Migration`0" priority="0" />
+      <Item value="Create" priority="0" />
+      <Item value="Delete" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Guid">
+      <Item value="NewGuid`0" priority="0" />
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="Users" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ReadLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleData.Console.User">
+      <Item value="EmailAddress" priority="0" />
+      <Item value="FirstName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SimpleData.Console.SqlCeBootStrapper">
+      <Item value="CreateDBFile`0" priority="0" />
+      <Item value="DeleteDBFile`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMigrator.Builders.Create.ICreateExpressionRoot">
+      <Item value="Table`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMigrator.Builders.Create.Table.ICreateTableWithColumnOrSchemaSyntax">
+      <Item value="WithColumn`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMigrator.Builders.Create.Table.ICreateTableColumnAsTypeSyntax">
+      <Item value="AsGuid`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMigrator.Builders.Create.Table.ICreateTableColumnOptionOrWithColumnSyntax">
+      <Item value="NotNullable`0" priority="0" />
+      <Item value="PrimaryKey`0" priority="0" />
+      <Item value="Identity`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentMigrator.Builders.Delete.IDeleteExpressionRoot">
+      <Item value="Table`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
