@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlServerCe;
 using System.IO;
@@ -36,6 +37,26 @@ namespace SimpleData.Console
         {
             var path = Assembly.GetExecutingAssembly().GetName().CodeBase;
             return Path.GetDirectoryName(new Uri(path).LocalPath);
+        }
+
+        public void CreateSchema()
+        {
+            var schemaCommands = new List<string> {@"CREATE TABLE Users(
+                                    Id [uniqueidentifier] NOT NULL CONSTRAINT UsersNew_PK PRIMARY KEY,
+                                    UserName nvarchar(100) NOT NULL,
+                                    EmailAddress nvarchar(100) NOT NULL,
+                                    FirstName nvarchar(100) NULL,
+                                    LastName nvarchar(100) NULL)"};
+
+            using (var connection = new SqlCeConnection(_connectionString))
+            {
+                connection.Open();
+                foreach (var schemaCommand in schemaCommands)
+                {
+                    var command = new SqlCeCommand(schemaCommand, connection);
+                    command.ExecuteNonQuery();
+                }
+            }
         }
     }
 }

@@ -14,6 +14,10 @@ namespace SimpleData.Console
         
         static void Main(string[] args)
         {
+            var bootStrapper = new SqlCeBootStrapper(connectionStringName);
+            bootStrapper.CreateDBFile();
+            bootStrapper.CreateSchema();
+            
             db = Database.OpenNamedConnection(connectionStringName);
 
             db.Users.DeleteAll();
@@ -25,7 +29,8 @@ namespace SimpleData.Console
             FindAllUsersWithoutPoco();
 
             FindAllUsersWithPoco();
-         
+
+            bootStrapper.DeleteDBFile();
 
             System.Console.WriteLine();
             System.Console.WriteLine("Press the any key to continue");
