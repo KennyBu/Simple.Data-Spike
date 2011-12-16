@@ -9,37 +9,42 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:App.config" caret="79" fromTop="2" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="0" fromTop="0" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:packages.config" caret="0" fromTop="0" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="358" fromTop="8" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:packages.config" caret="239" fromTop="5" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="1247" fromTop="42" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:App.config" caret="260" fromTop="6" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="859" fromTop="9" />
     </RecentFiles>
     <RecentEdits>
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1132" fromTop="12" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="914" fromTop="7" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1660" fromTop="16" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="914" fromTop="22" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="898" fromTop="25" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2298" fromTop="16" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1660" fromTop="8" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2181" fromTop="19" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2752" fromTop="34" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1584" fromTop="8" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="1163" fromTop="26" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="881" fromTop="23" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="271" fromTop="10" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="840" fromTop="28" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="988" fromTop="32" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="547" fromTop="23" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="549" fromTop="18" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="356" fromTop="18" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="774" fromTop="30" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="898" fromTop="17" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="0" fromTop="0" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:App.config" caret="216" fromTop="4" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="280" fromTop="10" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1029" fromTop="25" />
-      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="358" fromTop="8" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="940" fromTop="32" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="1803" fromTop="19" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="1803" fromTop="19" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:SqlCeBootStrapper.cs" caret="1635" fromTop="15" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="5106" fromTop="11" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1599" fromTop="37" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1588" fromTop="23" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1400" fromTop="16" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1191" fromTop="6" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2681" fromTop="34" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2381" fromTop="16" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2670" fromTop="31" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="1710" fromTop="12" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2089" fromTop="26" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2089" fromTop="28" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2197" fromTop="10" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2636" fromTop="22" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="3397" fromTop="16" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="4135" fromTop="32" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="4135" fromTop="33" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="3137" fromTop="4" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="3588" fromTop="14" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="3850" fromTop="23" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="4447" fromTop="15" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="4610" fromTop="20" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="4910" fromTop="27" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="5106" fromTop="31" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2969" fromTop="13" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="2941" fromTop="13" />
+      <File id="E044B434-9647-49A0-A88A-13D51E6634E8/f:Program.cs" caret="772" fromTop="10" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -55,39 +60,63 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="var" priority="3" />
-      <Item value="db" priority="2" />
+      <Item value="var" priority="9" />
+      <Item value="db" priority="3" />
       <Item value="IDatabaseOpener`0" priority="1" />
-      <Item value="Guid`0" priority="2" />
+      <Item value="Guid`0" priority="3" />
       <Item value="userId" priority="1" />
       <Item value="Console`0" priority="2" />
-      <Item value="user" priority="2" />
+      <Item value="user" priority="3" />
       <Item value="public" priority="0" />
       <Item value="class" priority="0" />
       <Item value="prop" priority="0" />
-      <Item value="foreach" priority="1" />
-      <Item value="User`0" priority="0" />
-      <Item value="users" priority="1" />
-      <Item value="private" priority="1" />
-      <Item value="void" priority="0" />
+      <Item value="foreach" priority="3" />
+      <Item value="User`0" priority="2" />
+      <Item value="users" priority="7" />
+      <Item value="private" priority="5" />
+      <Item value="void" priority="4" />
       <Item value="dynamic" priority="0" />
       <Item value="DBNull`0" priority="0" />
-      <Item value="protected" priority="2" />
-      <Item value="static" priority="1" />
+      <Item value="protected" priority="3" />
+      <Item value="static" priority="5" />
       <Item value="ctor" priority="0" />
-      <Item value="string" priority="1" />
-      <Item value="new" priority="1" />
-      <Item value="SqlCeBootStrapper`0" priority="0" />
+      <Item value="string" priority="2" />
+      <Item value="new" priority="5" />
+      <Item value="SqlCeBootStrapper`0" priority="1" />
       <Item value="sqlCeBootStrapper" priority="1" />
       <Item value="SqlCeBootStrapper" priority="0" />
-      <Item value="connectionStringName" priority="1" />
+      <Item value="connectionStringName" priority="2" />
       <Item value="Migrations" priority="0" />
       <Item value="Migration`0" priority="0" />
       <Item value="Create" priority="0" />
       <Item value="Delete" priority="0" />
+      <Item value="List" priority="0" />
+      <Item value="Builder" priority="0" />
+      <Item value="usersList" priority="0" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="theUsers" priority="1" />
+      <Item value="SqlCeCommand`0" priority="0" />
+      <Item value="command" priority="1" />
+      <Item value="SqlCeCommandBuilder`0" priority="0" />
+      <Item value="schemaCommands" priority="2" />
+      <Item value="schemaCommand" priority="0" />
+      <Item value="connection" priority="1" />
+      <Item value="bootStrapper" priority="2" />
+      <Item value="bool" priority="2" />
+      <Item value="isBulkInsert" priority="2" />
+      <Item value="if" priority="3" />
+      <Item value="userCreationCount" priority="0" />
+      <Item value="else" priority="2" />
+      <Item value="failUser" priority="0" />
+      <Item value="catch" priority="0" />
+      <Item value="Exception`0" priority="0" />
+      <Item value="e" priority="1" />
+      <Item value="theUser" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Guid">
-      <Item value="NewGuid`0" priority="0" />
+      <Item value="NewGuid`0" priority="1" />
       <Item value="Parse`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:System.Object">
@@ -100,10 +129,11 @@
     <ItemStatistics item="Qualified:SimpleData.Console.User">
       <Item value="EmailAddress" priority="0" />
       <Item value="FirstName" priority="0" />
+      <Item value="Id" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:SimpleData.Console.SqlCeBootStrapper">
-      <Item value="CreateDBFile`0" priority="0" />
-      <Item value="DeleteDBFile`0" priority="0" />
+      <Item value="CreateDBFile`0" priority="1" />
+      <Item value="DeleteDBFile`0" priority="1" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:FluentMigrator.Builders.Create.ICreateExpressionRoot">
       <Item value="Table`0" priority="0" />
@@ -121,6 +151,33 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:FluentMigrator.Builders.Delete.IDeleteExpressionRoot">
       <Item value="Table`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzWare.NBuilder.IListBuilder`1">
+      <Item value="TheFirst`1" priority="0" />
+      <Item value="Build`0" priority="0" />
+      <Item value="All`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzWare.NBuilder.IOperable`1">
+      <Item value="With`2" priority="1" />
+      <Item value="WhereAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="3" />
+      <Item value="First`1" priority="0" />
+      <Item value="Add`0" priority="1" />
+      <Item value="Last`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlServerCe.SqlCeCommand">
+      <Item value="ExecuteNonQuery`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlServerCe.SqlCeConnection">
+      <Item value="Open`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>
